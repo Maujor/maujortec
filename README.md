@@ -8,7 +8,7 @@ Este repositório foi criado para demonstrar o gerenciamento da publicação do 
 
 ### Deploy status badge
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/3c81614b-70b7-4ae2-b88a-ef5f1985162d/deploy-status)](https://app.netlify.com/sites/maujortec/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/2d1838a4-84e9-4ccc-976e-e30178997f2e/deploy-status)](https://app.netlify.com/sites/maujortec/deploys)
 
 ## Site dos livros do Maujor
 
