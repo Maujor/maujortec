@@ -1,5 +1,5 @@
 {
-  "name": "02-final",
+  "name": "maujortec-netlify",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -13,7 +13,7 @@
     "react-scripts": "3.3.0"
   },
   "scripts": {
-    "start": "set PORT=3002 && react-scripts start",
+    "start": "set PORT=3001 && react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
