@@ -8,7 +8,7 @@ const Navegacao = () => (
   <ul>
     <li>
       <NavLink exact activeStyle={linkCorrente} to="/">
-        HomePage
+        Home
       </NavLink>
     </li>
     <li>
