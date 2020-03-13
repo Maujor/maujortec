@@ -1,0 +1,146 @@
+html {
+  font-size: 16px;
+  box-sizing: border-box;
+}
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+  font: 1rem sans-serif;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 0 0 0.2em 0;
+}
+ul {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+.logo {
+  position: relative;
+  padding: 1.2em 0;
+  background: url(/imagens/logo.png) center no-repeat;
+}
+.logo span {
+  position: absolute;
+  top: -20000px;
+}
+.topo h1 {
+  width: 200px;
+  height: 50px;
+  margin: 0 auto;
+}
+.topo ul {
+  background: #c8e0e8;
+  border-bottom: 1px solid #cacaca;
+}
+.topo li {
+  display: inline-block;
+  border-right: 1px solid #999;
+}
+.topo li a {
+  text-transform: uppercase;
+  font-weight: bold;
+  color: #000;
+  text-decoration: none;
+  display: block;
+  padding: 8px 20px;
+}
+.topo li a:hover {
+  color: #666;
+}
+.topo li:first-child a {
+  border-left: 1px solid #999;
+}
+.principal a {
+  color: #027399;
+  text-decoration: none;
+}
+.thumb img {
+  display: block;
+  width: 80px;
+}
+.topo,
+.rodape {
+  text-align: center;
+  background: #eaefef;
+  padding: 1px 0;
+}
+.topo {
+  margin-bottom: 4px;
+}
+.principal {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  background: #eaefef;
+  max-width: 900px;
+  margin: 0 auto;
+}
+.principal h2 {
+  flex-basis: 100%;
+  font-size: 1em;
+  margin: 0;
+  padding: 6px 5px;
+  color: #fff;
+  background: #027399;
+}
+.principal h3 {
+  font-size: 1em;
+}
+.principal ol {
+  margin-top: 8px;
+}
+.erro {
+  width: 100%;
+  text-align: center;
+  padding: 5px;
+  background: #c00;
+  color: #fff;
+}
+.card {
+  display: flex;
+  flex: 0 1 50%;
+  padding: 8px 0 10px 10px;
+  border-bottom: 1px solid #ccc;
+}
+.card h2 {
+  font-size: 16px;
+}
+.card p {
+  font-size: 14px;
+  margin: 0;
+}
+.thumb {
+  margin-right: 5px;
+}
+.detalhes {
+  display: flex;
+  flex-direction: column;
+}
+.rodape {
+  margin-top: 4px;
+}
+.livro {
+  overflow: auto;
+  margin: 20px 0;
+}
+.livro img {
+  display: block;
+  width: 180px;
+  float: left;
+  margin: 0 10px;
+}
+@media screen and (max-width: 600px) {
+  .principal {
+    flex-direction: column;
+  }
+}

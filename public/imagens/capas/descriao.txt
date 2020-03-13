@@ -1,0 +1,324 @@
+7268
+titulo: Dominando o Android com Kotlin
+autor: Nelson Glauber
+categoria: programacao
+isbn: 978-85-7522-726-8
+ano: 2019
+paginas: 1064
+preco: 159
+O Android é a plataforma do Google para dispositivos móveis que se tornou líder absoluta no mercado mundial, e a quantidade de recursos disponibilizada para os desenvolvedores permite criar uma envolvente e estimulante interação do usuário com o dispositivo. Dominando o Android com Kotlin apresenta por meio de exemplos práticos, desde...
+
+-------------------
+7145
+ Introdução à linguagem Python
+José Augusto N. G. Manzano
+categoria: programacao
+isbn: 978-85-7522-714-5
+ano: 2018
+paginas: 352
+preco: 73
+Este livro apresenta a linguagem Python 3 de forma básica e introdutória para leitores e estudantes de programação que não possuem conhecimentos prévios da linguagem. Neste texto encontra-se a apresentação de detalhes e informações sobre: características básicas da linguagem, tipos de dados built-in; variáveis; constantes internas;...
+
+--------------------
+6919
+ PHP Programando com Orientação a Objetos
+Pablo Dall’Oglio
+categoria: programacao
+isbn: 978-85-7522-691-9
+ano: 2018
+paginas: 568
+preco: 99
+
+O PHP é uma das linguagens mais utilizadas no mundo. Sua popularidade se deve à flexibilidade da linguagem e a um conjunto abrangente de classes e funções que permitem desde a criação de simples portais até complexas aplicações de negócios corporativas. O PHP é usado por experientes programadores, que utilizam o que há de mais poderoso...
+
+--------------------
+5509
+ Laravel para ninjas
+Ademir C. Gabardo
+categoria: programacao
+isbn: 978-85-7522-550-9
+ano: 2017
+paginas: 184
+preco: 52
+
+As aplicações web modernas têm evoluído rapidamente. A demanda por ferramentas capazes de entregar conteúdo dinâmico como APIs REST e de frameworks para consumo de dados como Angular.JS e similares é crescente. Nesse contexto, frameworks modernos como o Laravel são ferramentas indispensáveis para a produção de sistemas web em tempo hábil,...
+
+--------
+8142
+ Padrões para Kubernetes
+Bilgin Ibryam / Roland Huß
+categoria: programacao
+isbn: 978-85-7522-814-2
+ano: 2019
+paginas: 272
+preco: 75
+O modo como os desenvolvedores projetam, desenvolvem e executam software mudou significativamente com a evolução dos microsserviços e dos containers. Essas arquiteturas modernas oferecem novas primitivas distribuídas que exigem um conjunto diferente de práticas, distinto daquele com o qual muitos desenvolvedores, líderes técnicos e arquitetos...
+O modo como os desenvolvedores projetam, desenvolvem e executam software mudou significativamente com a evolução dos microsserviços e dos contêineres. Essas arquiteturas modernas oferecem novas primitivas distribuídas que exigem um conjunto diferente de práticas, distinto daquele com o qual muitos desenvolvedores, líderes técnicos e arquitetos...
+Ver mais 
+----------------- 
+8098
+Construindo Chatbots com Python
+Sumit Raj
+categoria: programacao
+isbn: 978-85-7522-809-8
+ano: 2019
+paginas: 192
+preco: 65
+Construa seu próprio chatbot usando Python e ferramentas open source. Este livro começa com uma introdução aos chatbots na qual você obterá informações vitais sobre sua arquitetura. Em seguida, começará imediatamente a usar o Natural Language Processing (NLP) com a ajuda do Natural Language Toolkit (NLTK) para construir uma plataforma...
+
+-----------------
+8050
+Problemas Clássicos de Ciência da Computação com Python
+David Kopec
+categoria: programacao
+isbn: 978-85-7522-805-0
+ano: 2019
+paginas: 272
+preco: 75
+Problemas de ciência da computação aparentemente novos ou ímpares muitas vezes têm raízes em algoritmos clássicos, nas técnicas de programação e em princípios de engenharia. E as abordagens clássicas ainda são a melhor forma de solucioná-los! Compreender essas técnicas em Python faz com que o seu potencial para o sucesso se expanda nas...
+
+----------------
+7800
+ Internet das Coisas para Desenvolvedores
+Ricardo da Silva Ogliari
+categoria: programacao
+isbn: 978-85-7522-780-0
+ano: 2019
+paginas: 264
+preco: 65
+A internet das coisas é um dos mais promissores e revolucionários conceitos presentes na ciência da computação. Porém, o conhecimento necessário para trabalhar com plataformas de hardware e microcontroladores nem sempre é de domínio de profissionais com carreira mais direcionada ao mundo do software. Sendo assim, existe uma lacuna que impede...
+
+--------------
+6773
+ Node Essencial
+Ricardo R. Lecheta
+categoria: programacao
+isbn: 978-85-7522-677-3
+ano: 2018
+paginas: 216
+preco: 54
+Node.js é uma das plataformas de desenvolvimento mais conhecidas do mercado, que utiliza JavaScript como linguagem de programação e torna o desenvolvimento de web services RESTful muito produtivo. Neste livro, estudaremos JavaScript e Node.js desde o básico, utilizando uma metodologia passo a passo por meio da qual desenvolveremos um projeto...
+
+---------------------
+8074
+Introdução ao Pentest
+Autor: Daniel Moreno
+categoria: programacao
+isbn: 978-85-7522-807-4
+ano: 2019
+paginas: 384
+preco: 89
+Introdução ao Pentest irá capacitar o leitor a entender e a realizar o pentest – uma auditoria minuciosa sobre falhas e vulnerabilidades em computadores e redes – e, assim, buscar a melhor forma de solucionar os problemas encontrados. Tendo como base a metodologia Kali Linux para o ensino do pentest, a qual é extremamente didática e...
+
+-----------------
+6322
+CSS Grid Layout
+Maurício Samy Silva
+categoria: frontend
+isbn: 978-85-7522-632-2
+ano: 2017
+paginas: 176
+preco: 45
+A criação de Layout CSS sempre foi uma tarefa trabalhosa, mas agora os profissionais têm uma ferramenta poderosa ao seu alcance, o CSS Grid Layout, uma nova especificação do W3C, que veio para resolver praticamente todos os problemas de posicionamento na tela. Utilizando um novo método de layout CSS, bidimensional, com linhas e colunas, mais...
+
+--------------------------
+4038
+HTML5 - A Linguagem de Marcação que Revolucionou a Web - 2ª Edição
+Maurício Samy Silva
+categoria: frontend
+isbn: 978-85-7522-403-8
+ano: 2014
+paginas: 336
+preco: 75
+HTML5 é a linguagem de marcação que amplia de forma surpreendente as funcionalidades da HTML, alterando de maneira significativa como você desenvolve para a web. Trata-se da mais extensa especificação para a HTML focada em criar funcionalidades para desenvolvimento não só de sites, mas também de aplicações de internet rica (RIA). Maujor...
+
+---------------------
+3925
+Web Design Responsivo
+Maurício Samy Silva
+categoria: frontend
+isbn: 978-85-7522-392-5
+ano: 2014
+paginas: 336
+preco: 73
+Este livro foi escrito para pessoas envolvidas na criação de sites tanto na área de design quanto na de desenvolvimento e programação, que desejam criar interfaces usáveis e acessíveis em qualquer dispositivo independentemente de suas características, isto é, que se adaptem às mais variadas resoluções de tela. O objetivo do livro é fornecer...
+
+--------------------
+2898
+CSS3
+Maurício Samy Silva
+categoria: frontend
+isbn: 978-85-7522-289-8
+ano: 2011
+paginas: 496
+preco: 89
+CSS3 ultrapassou o status de proposta de uma tecnologia que prometia revolucionar a forma como estilizamos documentos para a web e deve obrigatoriamente fazer parte do dia a dia dos designers e desenvolvedores web. Muitas das funcionalidades das CSS3 estão desenvolvidas o bastante para ser empregadas em fase de produção, quer com suporte nativo,...
+
+-----------------
+1662
+ Criando Sites com HTML
+Maurício Samy Silva
+categoria: frontend
+isbn: 978-85-7522-166-2
+ano: 2008
+paginas: 432
+preco: 75
+Construir sites em conformidade com os Padrões Web do W3C, mais do que uma opção de desenvolvimento, é uma exigência do mercado. Resgatar a finalidade original da linguagem de marcação HTML, tal como idealizada pelo seu inventor, Tim Berners-Lee é a palavra-chave que norteia o moderno conceito de escrever HTML. Este livro descreve de forma...
+
+------------------
+1396
+ Construindo Sites com CSS e (X)HTML
+Maurício Samy Silva
+categoria: frontend
+isbn: 978-85-7522-139-6
+ano: 2007
+paginas: 448
+preco: 75
+Seja você um desenvolvedor experiente, um acadêmico, um estudante da área relacionada à construção de sites para web ou um iniciante, Construindo sites com CSS e (X)HTML ampliará seus conhecimentos e será uma fonte de consulta valiosa no seu dia-a-dia de trabalho. Este livro aborda a técnica de construção de sites baseada nas Web Standards...
+
+----------------------
+7305
+Web Scraping com Python - 2ª edição
+Ryan Mitchell
+categoria: programacao
+isbn: 978-85-7522-730-5
+ano: 2019
+paginas: 328
+preco: 93
+Se a programação é mágica, o web scraping certamente é uma forma de magia. Ao escrever um programa automatizado simples, é possível consultar servidores web, requisitar dados e interpretá-los a fim de extrair as informações desejadas. A edição ampliada deste livro prático não só apresenta uma introdução ao web scraping, como também...
+
+-----------------
+6834
+Primeiros Passos com a Linguagem Rust
+José Augusto N. G. Manzano
+categoria: programacao
+isbn: 978-85-7522-683-4
+ano: 2018
+paginas: 312
+preco: 69
+Este livro apresenta a linguagem Rust de forma básica e introdutória para leitores e estudantes de programação que não têm conhecimentos prévios da linguagem. Assuntos abordados neste livro: tipos de dados; variáveis mutáveis e imutáveis; constantes; operadores aritméticos; expressões aritméticas; operações...
+
+----------------
+4441
+Java Guia do Programador - 3ª Edição
+Peter Jandl Junior
+categoria: programacao
+isbn: 978-85-7522-444-1
+ano: 2015
+paginas: 704
+preco: 119
+Desenvolva aplicações usando o Java 8!Explore todas as vantagens da programação orientada a objetos por meio da elegante sintaxe Java. Aprenda a usar sobrecarga, herança, classes abstratas, polimorfismo, interfaces, genéricos e expressões lambda.Construa aplicações gráficas utilizando componentes Swing, tornando-as multitarefa com as threads....
+
+-----------------
+8128
+ Redação Estratégica para UX
+Torrey Podmajersky
+categoria: design
+isbn: 978-85-7522-812-8
+ano: 2019
+paginas: 184
+preco: 63
+Quando uma organização depende de seres humanos comportando-se de maneira específica – comprando ingressos, jogando ou usando o transporte público –, as palavras bem colocadas são mais eficientes. Como escolher as melhores palavras? E como saber se vão funcionar? Com este livro prático, você vai aprender como redigir de forma estratégica...
+
+---------------------
+7763
+UX Design
+Will Grant
+categoria: design
+isbn: 978-85-7522-776-3
+ano: 2019
+paginas: 208
+Preço impresso: 63
+Queremos que nossa UX seja genial. Queremos criar ótimas experiências de usuário. Queremos que a UX conduza o sucesso de nosso negócio com produtos de software proveitosos e usáveis. Este livro é baseado no conhecimento e treinamento de Jakob Nielsen e Don Norman para nos ajudar a construir corretamente nossa UX – de 101 formas! UX Design...
+
+-------------------
+3666
+Design centrado no usuário
+ Travis Lowdermilk
+ categoria: design
+isbn: 978-85-7522-366-6
+ano: 2013
+paginas: 184
+Preço impresso: 53
+Design centrado no usuário apresenta uma visão única sobre a forma como pesquisas junto aos usuários são combinadas com os conceitos de design, focando na lógica fundamental e no conhecimento por trás do assunto. O livro é presença obrigatória na biblioteca de qualquer pessoa que esteja criando produtos para seus usuários, ajudando a compreender...
+
+---------------
+5127
+Aprendendo Material Design
+Kyle Mew
+categoria: design
+isbn: 978-85-7522-512-7
+ano: 2016
+paginas: 200
+preco: 69
+A linguagem Material Design, do Google, impressionou tanto o mundo de desenvolvimento quanto o de design. Agora disponível em muito mais plataformas além do Android, o Material Design utiliza cor, luz e movimento não apenas para gerar interfaces bonitas, mas também para proporcionar uma navegação intuitiva para o usuário. O livro Aprendendo...
+
+---------------
+4533
+Design Thinking & Thinking Design
+Adriana Melo / Ricardo Abelheira
+categoria: design
+isbn: 978-85-7522-453-3
+ano: 2015
+paginas: 208
+preco: 55
+Você concorda que o atual mundo dos negócios está exigindo inovação, mais convívio e familiaridade com os clientes e menos submissão aos números? Então, este livro é para você.“Design Thinking é uma metodologia que aplica ferramentas do design para solucionar problemas complexos. Propõe o equilíbrio entre o raciocínio associativo, que...
+
+-------------------
+
+4380
+Fundamentos de HTML5 e CSS3
+Maurício Samy Silva
+categoria: frontend
+isbn: 978-85-7522-438-0
+ano: 2015
+paginas: 304
+preco: 69
+O livro Fundamentos de HTML5 e CSS3 tem o objetivo de fornecer aos iniciantes e estudantes da área de desenvolvimento web conceitos básicos e fundamentos da marcação HTML e estilização CSS, para a criação de sites, interfaces gráficas e aplicações para a web.Maujor aborda as funcionalidades da HTML5 e das CSS3 de forma clara, em linguagem...
+Ver mais ▼
+
+---------------------------------
+4106
+Crie seu próprio site
+Nate Cooper
+categoria: frontend
+isbn: 978-85-7522-410-6
+ano: 2015
+paginas: 264
+preco: 65
+Crie seu próprio site é uma introdução ilustrada e divertida ao básico sobre a criação de um site. Junte-se a Kim e a sua cachorrinha Tofu enquanto ela aprende HTML – a linguagem das páginas web – e CSS – a linguagem usada para estilizá-las – com o Guru da Web e com Glinda, a Boa Bruxa do CSS.Depois de aprender o básico, Kim viaja...
+Ver mais ▼
+------------------------
+3406
+Análise e Design Orientados a Objetos
+Hélio Engholm Jr.
+categoria: design
+isbn: 978-85-7522-340-6
+ano: 2013
+paginas: 376
+preco: 69
+Este livro mostra como utilizar as melhores práticas na análise, no design e no desenvolvimento de aplicações orientadas a objetos, utilizando-se da linguagem unificada de modelagem UML. Será mostrado, passo a passo, como analisar, modelar e desenvolver aplicações orientadas a objetos, com exemplos de todas as etapas do processo de desenvolvimento...
+Ver mais ▼
+------------------------
+3192
+Padrões de Design para Aplicativos Móveis
+Theresa Neil
+categoria: design
+ISBN: 978-85-7522-319-2
+ano: 2012
+paginas: 208
+preco: 59
+Quando você está sob pressão para produzir um aplicativo móvel com um bom design e fácil de navegar, não há tempo para reinventar a roda. Este livro conciso proporciona uma referência útil para 70 padrões de design de aplicativos móveis, ilustrada por mais de 400 screenshots de aplicativos atuais para iOS, Android, BlackBerry, WebOS, Windows...
+Ver mais ▼
+------------------------
+3581
+ Padrões de Projeto para o Android
+Greg Nudelman
+categoria: design
+isbn: 978-85-7522-358-1
+ano: 2013
+paginas: 456
+preco: 93
+O ecossistema Android, neste exato momento, vive um perfeito turbilhão que mistura os fatores necessários para o crescimento explosivo em curto prazo e o domínio do mercado no longo prazo. Chegou o momento de começar a projetar e desenvolver aplicativos Android 4 e este livro é sobre aquilo que funciona: padrões. Aqui estão 58 padrões essenciais...
+Ver mais ▼
+---------
