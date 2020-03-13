@@ -28,7 +28,7 @@ const Navegacao = () => (
     </li>
     <li>
       <NavLink exact activeStyle={linkCorrente} to="/catalogo">
-        Catalogo
+        Catálogo
       </NavLink>
     </li>
   </ul>
