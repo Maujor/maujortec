@@ -4,7 +4,7 @@ Este repositório foi criado para demonstrar o gerenciamento da publicação do 
 
 ## Endereço da hospedagem da aplicação
 
-[https://maujortec.netlify.com/](https://maujortec.netlify.com/r)
+[https://maujortec.netlify.app/](https://maujortec.netlify.app)
 
 ### Deploy status badge
 
